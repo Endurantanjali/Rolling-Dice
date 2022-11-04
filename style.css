@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+   background-color: black
+    }
+    #dice {
+    font-size: 320px;
+    color: aquamarine;
+    }
+    #dice:hover {
+    cursor: pointer;
+    }
+    .head{
+        color: white;
+        font-weight: bold;
+        font-size: larger;
+    }
+   
